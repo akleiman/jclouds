@@ -740,6 +740,7 @@ pageTracker._trackPageview();
                             <reportSet>
                                 <id>default</id>
                                 <reports>
+                                    <report>javadoc</report>
                                     <report>aggregate</report>
                                 </reports>
                             </reportSet>
@@ -846,6 +847,7 @@ pageTracker._trackPageview();
                                             <reportSet>
                                                 <id>default</id>
                                                 <reports>
+                                                    <report>javadoc</report>
                                                     <report>aggregate</report>
                                                 </reports>
                                             </reportSet>
